@@ -1,6 +1,9 @@
 * {
     padding: 0;
     margin: 0;
+
+   list-style: none;
+   text-decoration: none; 
 }
 
 body {
@@ -28,4 +31,36 @@ button {
     margin-top: 20px;
     font-size: 1.2em;
     font-weight: bold;
+}
+
+ul ¨{
+    margin: 5em;
+}
+
+.flex {
+    display: flex;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.flexjustify {
+    ali
+}
+
+.flex1 ¨{
+    flex: 1;
+}
+
+.flex2 ¨{
+    flex: 2;
+}
+
+.flex3 ¨{
+    flex: 3;
 }
