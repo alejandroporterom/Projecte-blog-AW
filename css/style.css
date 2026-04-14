@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+
+   list-style: none;
+   text-decoration: none; 
+}
+
+body {
+    background: #d01717;
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 50px;
+}
+
+input,
+button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+button {
+    background: #db3434;
+    cursor: pointer;
+}
+
+#saludo {
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+ul ¨{
+    margin: 5em;
+}
+
+.flex {
+    display: flex;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.flexjustify {
+    ali
+}
+
+.flex1 ¨{
+    flex: 1;
+}
+
+.flex2 ¨{
+    flex: 2;
+}
+
+.flex3 ¨{
+    flex: 3;
+}
